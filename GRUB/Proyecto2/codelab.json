@@ -1,0 +1,24 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2022-10-24T22:44:59+02:00",
+  "id": "Proyecto2",
+  "duration": 0,
+  "title": "",
+  "summary": "Resumen del CodeLab",
+  "source": "Proyecto2.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "codelab",
+    "markdown"
+  ],
+  "tags": [],
+  "feedback": "un enlace en el que los usuarios puedan darte feedback (quizás creando un issue en un repositorio de git)",
+  "ga": "ID de Google",
+  "url": "Proyecto2"
+}

@@ -1,0 +1,26 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2022-10-24T23:01:22+02:00",
+  "id": "Proyecto 1",
+  "duration": 0,
+  "title": "Bastionado del arranque del sistema",
+  "summary": "Resumen del CodeLab",
+  "source": "Proyecto 1.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "codelab",
+    "markdown"
+  ],
+  "tags": [
+    "web"
+  ],
+  "feedback": "Un enlace en el que los usuarios puedan darte feedback (quizás creando un issue en un repositorio de git)",
+  "ga": "ID de Google Analytics",
+  "url": "Proyecto 1"
+}
